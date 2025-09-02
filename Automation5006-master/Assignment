@@ -1,0 +1,91 @@
+
+Assignment1:
+Write automation script to open Google
+Then navigate to amazon 
+capture title of both application
+then navigate back to Google from amazon
+Capture current url of Google
+Then navigate forward and get the current url of amazon
+and validate Title of amazon should contains Online Shopping.
+and close the browser
+
+--------------------------------------------------------
+Assignment2:
+Write a automation script to automate Orangehrm application Login an logout functionality
+
+
+Assignment3:
+==============
+W.A.Script to automate https://www.naukri.com/ page
+get total count of links
+Print href value and text of every link into console
+===============================================================
+Assignment 4
+===================
+Use URL: https://tutorialsninja.com/demo/index.php?route=account/register
+
+W.A. Script for register page 
+- for radio button confirm if button is not selected then select the same(yes)
+
+Assignment5
+===================
+1.Automate amazon Footer list(xpath)
+2.Automate Orangehrm login and logout using cssSelector
+3.Automate Orangehrm login and logout using xpath
+
+
+
+Assignment Based on Dropdown
+=================================
+1.Automate redbus from and to both dropdown
+2.Autiomate Goibibo application dropdown
+
+
+Assingment On NewTab
+============================
+Write automation script to open first google then open
+ facebook application 10 times in 10 different tab
+
+
+Assignment on WebTable
+========================
+Automate https://automationplayground.com/crm/ and write a script for webtable
+1.Number of Heading and print the same
+2.Number of rows
+3.Number of cells
+4.Row 4 data
+5.All customers name only
+6.get all data and print inside console
+
+Automate for right click 
+https://the-internet.herokuapp.com/context_menu
+
+Try to automate
+1.slider- clickandhold--->moveToElement(ele,x(100),y)
+2.Resizing-- movetoElement--->draganddrop(offset x,y)
+3.tooltip
+
+
+Assignment on TestNG
+=======================
+1.Automate https://demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F this application 
+for register and login and use data from xml file
+
+
+Assignment on Annaotation
+===============================
+Create two classes
+Maintain annotations in Baseclass
+Maintain test Cases for Orangehrm application  in testClass'
+Run the scenario
+
+
+
+
+
+
+
+
+
+
+
